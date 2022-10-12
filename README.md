@@ -1,2 +1,2 @@
-# fupeng_sun.github.io
+# homepage
 Repository for Fupeng Sun's academic research website.
